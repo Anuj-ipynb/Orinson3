@@ -1,4 +1,4 @@
-# Orinson3
+
 # Sentiment Analysis Using NLP on IMDB Movie Reviews
 
 This project demonstrates sentiment analysis using Natural Language Processing (NLP) techniques on the IMDB movie reviews dataset. The goal is to classify reviews as **positive** or **negative** based on their content.
